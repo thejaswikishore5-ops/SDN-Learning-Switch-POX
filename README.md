@@ -61,5 +61,4 @@ The first ping in each session (e.g., **2.76 ms**) is significantly higher than 
     sudo mn --controller=remote,ip=127.0.0.1,port=6633 --topo=single,3
     ```
 
----
-*Developed for the SDN Individual Project (PES1UG23CS655)*
+
