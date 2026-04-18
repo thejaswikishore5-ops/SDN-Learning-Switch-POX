@@ -34,9 +34,11 @@ Testing was conducted on a `single,3` topology to measure the efficiency of the 
 | **Packet Loss** | **0%** |
 
 **Throughput Proof:**
+
 ![Iperf Results](screenshots/iperf_throughputput_test.png)
 
 **Latency Proof:**
+
 ![Latency Results](screenshots/latency_ping_test.png)
 
 **Analysis:**
